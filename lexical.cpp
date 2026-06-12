@@ -9,6 +9,7 @@ using namespace std;
 set<string> symbolTable;
 
 // hello
+// not
 
 // Keyword check
 int isKeyword(const string& word) 
