@@ -8,6 +8,8 @@ using namespace std;
 // Symbol Table
 set<string> symbolTable;
 
+// hello
+
 // Keyword check
 int isKeyword(const string& word) 
 {
