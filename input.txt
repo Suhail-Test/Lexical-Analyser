@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main()
+{
+    int a = 12;
+    float b = 3.6;
+
+    printf("Hello %d\n", a);
+
+    return 0;
+}
