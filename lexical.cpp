@@ -5,6 +5,7 @@
 #include <set>
 using namespace std;
 
+//chnages
 // Symbol Table
 set<string> symbolTable;
 
